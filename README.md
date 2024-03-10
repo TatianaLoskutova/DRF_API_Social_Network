@@ -1,4 +1,4 @@
-# api_final_yatube
+# api_for_social_network
 
 ### Разработчик проекта: Лоскутова Татьяна (Loskutova Tatiana)
 
